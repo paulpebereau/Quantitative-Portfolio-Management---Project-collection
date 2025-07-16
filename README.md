@@ -1,10 +1,10 @@
-# 📊 Quantitative Portfolio Management – Project Collection
+# Quantitative Portfolio Management – Project Collection
 
 This repository presents a series of academic and applied projects carried out as part of a Quantitative Portfolio Management course. Each notebook explores a specific concept in portfolio theory, or investment strategy, with hands-on implementations in Python.
 
 ---
 
-## 📁 Included Projects
+## Included Projects
 
 Each project is self-contained and located in its own notebook:
 
@@ -19,7 +19,7 @@ Each project is self-contained and located in its own notebook:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python 3  
 - `pandas`, `numpy`, `matplotlib`, `scipy`, `yfinance`  
@@ -27,7 +27,7 @@ Each project is self-contained and located in its own notebook:
 
 ---
 
-## 📂 Data
+## Data
 
 Most projects use publicly available financial data retrieved through the `yfinance` package.  
 Project7 uses particular dataset.
@@ -35,10 +35,9 @@ For any local datasets required, please refer to the `data/README.md` file (to b
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 
-```bash
 git clone https://github.com/your-username/QPM-projects.git
 cd QPM-projects
